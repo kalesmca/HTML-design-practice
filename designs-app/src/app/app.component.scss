@@ -1,0 +1,43 @@
+.header {
+  height: 150px;
+  background-color: darkgray;
+
+  .title {
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 55px;
+  }
+
+  .nav-list {
+    float: right;
+    padding-top: 44px;
+
+    span {
+      padding: 5px;
+    }
+  }
+
+
+}
+
+.sidenav {
+  width: 25%;
+  background-color: dimgray;
+  height: 100%;
+  display: inline-block;
+}
+
+.m-container {
+  width: 75%;
+  background-color: floralwhite;
+  height: 100%;
+  display: inline-block;
+}
+
+.footer {
+  height: 50px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+  background-color: green;
+}
