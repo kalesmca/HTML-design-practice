@@ -24,14 +24,16 @@
   width: 25%;
   background-color: dimgray;
   height: 100%;
-  display: inline-block;
+  // display: inline-block;
+  float: left;
 }
 
 .m-container {
   width: 75%;
   background-color: floralwhite;
   height: 100%;
-  display: inline-block;
+  // display: inline-block;
+  float: right;
 }
 
 .footer {
